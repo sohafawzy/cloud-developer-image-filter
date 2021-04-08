@@ -1,4 +1,4 @@
-#Image Filtering endpoint URL:
+# Image Filtering endpoint URL:
 
 http://image-filter-dev2222.us-east-2.elasticbeanstalk.com
 
